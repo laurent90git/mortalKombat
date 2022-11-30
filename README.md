@@ -10,7 +10,7 @@ We study France as an example. Data is obtained from [mortality.org](https://www
 
 The script produces the following figure:
 
-![Mortality in France](https://raw.githubusercontent.com/laurent90git/mortalKombat/main/france.png_mortality "Mortality in France")
+![Mortality in France](https://github.com/laurent90git/mortalKombat/blob/main/france_mortality.png "Mortality in France")
 
 We see that the curves without infant mortality (curves with no transparency) are much higher than with. Typically, the median (respectively mean) age of death around 1850 is 30 (resp. 35) with infant mortality, while it becomes 55 (resp. 57) when we discard deaths at ages lower than 15 years.
 
