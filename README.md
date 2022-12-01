@@ -8,8 +8,11 @@ Many say that life expectancy in the 1800s was lower than 50 years. This can ind
 
 We study France as an example. Data is obtained from [mortality.org](https://www.mortality.org/Country/Country?cntr=FRACNP)
 
-The script produces the following figure:
+The script produces the following figures:
+![Mortality in France](https://github.com/laurent90git/mortalKombat/blob/main/france_mortality_men.png "Mortality in France for women")
+![Mortality in France](https://github.com/laurent90git/mortalKombat/blob/main/france_mortality_women.png "Mortality in France for men")
 
+An the more complete (and complex) figure:
 ![Mortality in France](https://github.com/laurent90git/mortalKombat/blob/main/france_mortality.png "Mortality in France")
 
 We see that the curves without infant mortality (curves with no transparency) are much higher than with. Typically, the median (respectively mean) age of death around 1850 is 30 (resp. 35) with infant mortality, while it becomes 55 (resp. 57) when we discard deaths at ages lower than 15 years.
